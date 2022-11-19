@@ -664,7 +664,7 @@ At this point, there is an 'archive of all things'.
  Though it's less of an 'archive' and more of just an 'existence'; not really information.
  It is 'existence', nothing more.
  It has no will unto itself, and no possible directive either.
- It simply lets causes flow out of itself, almost like it's this %{i}Source Maelstrom%{/i}."
+ It simply lets causes flow out of itself, almost like it's this %{i}Maelstrom about the Root%{/i}."
 }
 [sha:86119b21e4887c111e0977f80a5373c27a2731fe]{
 -- Page 476, Offset 17754.
@@ -691,7 +691,7 @@ By now we are all too far removed――too hopelessly complex,
 [sha:542ad5b18cd1e6178e61023459b606acdeeeca3d]{
 -- Page 478, Offset 17757.
 -- 「全ての根源、全ての始まりと終わりを記録したレコード。
-"The Source of all things: a record of the beginning and end of everything.
+"The Root of all things: a record of the beginning and end of everything.
 }
 [sha:852c2cf04ace0957b18d8537e1064d15cfac519d]{
 -- Page 478, Offset 17758.
